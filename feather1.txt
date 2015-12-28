@@ -1,6 +1,3 @@
 feather 1 begins here.
-<<<<<<< HEAD
-feather 1 add 1 new line.
-=======
 feather 1 add a new line.
->>>>>>> feather1
+feather 1 had fixed a bug.
